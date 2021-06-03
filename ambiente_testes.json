@@ -1,0 +1,24 @@
+{
+	"id": "b9479b1f-3f33-4a7a-95ea-3437b41721bc",
+	"name": "Testes",
+	"values": [
+		{
+			"key": "url_base",
+			"value": "https://api.hunter.io/v2/",
+			"enabled": true
+		},
+		{
+			"key": "id_lead",
+			"value": "1111",
+			"enabled": true
+		},
+		{
+			"key": "id_lead_list",
+			"value": "11111",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-06-01T14:02:03.116Z",
+	"_postman_exported_using": "Postman/8.5.1"
+}
